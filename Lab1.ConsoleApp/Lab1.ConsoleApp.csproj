@@ -9,6 +9,8 @@
     <ProjectReference Include="..\Lab1.BusinessLogic\Lab1.BusinessLogic.csproj" />
     <ProjectReference Include="..\Lab1.DataAccessLayer\Lab1.DataAccessLayer.csproj" />
     <ProjectReference Include="..\Lab1.Model\Lab1.Model.csproj" />
+    <ProjectReference Include="..\Lab1.Shared\Lab1.Shared.csproj" />
+    <ProjectReference Include="..\Lab1.Presenter\Lab1.Presenter.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
